@@ -82,4 +82,4 @@ Este projeto está sob a licença MIT — sinta-se livre para usar e adaptar.
 
 ---
 
-👉 Quer que eu prepare também uma **versão em inglês** do README para deixar seu portfólio mais internacional?
+

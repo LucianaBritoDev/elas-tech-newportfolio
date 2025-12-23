@@ -6,33 +6,28 @@
 
 # 🌐 Portfólio — Luciana Brito
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-Este repositório contém meu portfólio pessoal desenvolvido com **HTML5** e **CSS3**, criado para apresentar minha trajetória, projetos e formas de contato.  
+Este repositório contém meu portfólio pessoal desenvolvido com **HTML5** e **CSS3** puro, criado para apresentar minha trajetória, projetos e formas de contato.  
 O objetivo é oferecer uma experiência visual moderna, responsiva e acessível, sem uso de frameworks ou bibliotecas externas.
 
 ---
 
-## 📖 Sobre o projeto
+## 📖 Sobre o projeto:
 
-- **Home:** Introdução e apresentação profissional  
-- **Projetos:** Lista de trabalhos e repositórios  
-- **Sobre mim:** Minha formação, experiência e transição de carreira  
-- **Contatos:** Informações para conexão (email, LinkedIn, GitHub)
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- **HTML5** — Estrutura semântica  
-- **CSS3** — Estilização e responsividade  
+- **Home:** Introdução e apresentação profissional;  
+- **Projetos:** Lista de trabalhos e repositórios; 
+- **Sobre mim:** Minha formação, experiência e transição de carreira; 
+- **Contatos:** Informações para conexão (email, LinkedIn, GitHub).
 
 ---
 
-## 📂 Estrutura de arquivos
+## 🛠️ Tecnologias utilizadas:
+
+- **HTML5** — Estrutura semântica;  
+- **CSS3** — Estilização e responsividade.  
+
+---
+
+## 📂 Estrutura de arquivos:
 
 ```text
 .
@@ -46,7 +41,7 @@ O objetivo é oferecer uma experiência visual moderna, responsiva e acessível,
 
 ---
 
-## 🚀 Como executar localmente
+## 🚀 Como executar localmente:
 
 1. Clone este repositório:
    ```bash
@@ -57,7 +52,7 @@ O objetivo é oferecer uma experiência visual moderna, responsiva e acessível,
 
 ---
 
-## 🌍 Deploy no GitHub Pages
+## 🌍 Deploy no GitHub Pages:
 
 Para publicar este portfólio online usando **GitHub Pages**:
 

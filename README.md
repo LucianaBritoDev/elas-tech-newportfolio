@@ -47,7 +47,7 @@ O objetivo é oferecer uma experiência visual moderna, responsiva e acessível,
    ```bash
    git clone https://github.com/LucianaBritoDev/elas-tech-newportfolio
    ```
-2. Abra o arquivo `index.html` em qualquer navegador moderno.  
+2. Abra o arquivo `index.html` em qualquer navegador moderno;  
 3. Opcional: utilize extensões como **Live Server** para visualizar alterações em tempo real.
 
 ---
@@ -56,15 +56,15 @@ O objetivo é oferecer uma experiência visual moderna, responsiva e acessível,
 
 Para publicar este portfólio online usando **GitHub Pages**:
 
-1. Vá até as configurações do repositório (**Settings**).  
-2. Na aba **Pages**, selecione a branch `main` e a pasta `/root` (ou `/docs` se usar).  
-3. Salve as configurações.  
+1. Vá até as configurações do repositório (**Settings**); 
+2. Na aba **Pages**, selecione a branch `main` e a pasta `/root` (ou `/docs` se usar);
+3. Salve as configurações;  
 4. O site ficará disponível em:  
    ```
    https://<seu-usuario>.github.io/<nome-do-repositorio>
    ```
    Exemplo:  
-   [https://LucianaBritoDev.github.io/elas-tech-newportfolio](https://LucianaBritoDev.github.io/elas-tech-newportfolio)
+   [https://LucianaBritoDev.github.io/elas-tech-newportfolio](https://LucianaBritoDev.github.io/elas-tech-newportfolio) 
 
 ---
 
